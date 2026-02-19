@@ -1,0 +1,5 @@
+requests==2.32.3
+python-dotenv==1.0.1
+base58==2.1.1
+solana==0.36.0
+solders==0.23.0
